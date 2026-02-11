@@ -18,4 +18,4 @@ You can then open the Gtools autolisp file.
 Now Gtools will start automatically everytime you open autocad!
 
 Here is tutorial video for a more in depth explanation.
-https://youtu.be/enkzAhFCz0U
+https://youtu.be/QxL7uV8MzPg
