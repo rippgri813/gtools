@@ -7,7 +7,8 @@ Made by Griffon Rippl for Electrol Specialties.
 ## Gshoulder 
 Allows the user to bring spray lines to the spray ball shoulder. NOTE: Make sure you are on the correct UCS selected before use.
 
-
+## GGen
+Allows the user to quickly generate general sprays.
 
 # Installation
 To install Gtools open autocad and go to the **MANAGE** tab at the top of your screen.
